@@ -41,3 +41,5 @@ Main project objectives:
 
 This repository serves as an educational example of combining physics simulation with software
 development practices.
+
+<!--Final submission-->
